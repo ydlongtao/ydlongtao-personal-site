@@ -191,3 +191,11 @@ The project is complete.
 - The Chinese and English CV downloads are both PDF files.
 - The source code and public website assets are backed up to GitHub.
 - Sensitive source materials and local QA files remain excluded from the repository.
+
+## Documentation Update
+
+On 2026-07-26, a detailed style and content maintenance guide was added:
+
+- `WEBSITE_STYLE_AND_CONTENT_GUIDE.md`
+
+This guide records the website visual system, color tokens, typography rules, responsive layout rules, final avatar creation style, reusable avatar prompt, current Chinese-English text content, public asset rules, privacy exclusions, and deployment commands. It is intended to keep future changes aligned with the approved website design.
