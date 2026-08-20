@@ -433,20 +433,25 @@ Current entries:
 
 1. 2026  
    `Cisplatin-Induced ecDNA Enhances Tumor Aggressiveness and Accelerates Chemoresistance Acquisition in Gastric Cancer`  
-   `Zhu H*, Chen L*, Huangfu L*# et al. Journal of Advanced Research, Jul 30:S2090-1232(26)00601-6`  
+   `Journal of Advanced Research, 2026 Jul 30:S2090-1232(26)00601-6`  
    Tag: `ecDNA`
 
-2. 2025  
+2. 2026  
+   `TOPK Inhibition Promotes Anti-Tumor Immunity Via eIF4F Complex Mediated STAT1 Translation in Gastric Cancer`  
+   `Advanced Science, 13(13):e17380. doi: 10.1002/advs.202517380`  
+   Tag: `TOPK`
+
+3. 2025  
    `Exploring the potential of extrachromosomal DNA as a novel oncogenic driver`  
    `Science China Life Sciences, 68(1): 144-157`  
    Tag: `ecDNA`
 
-3. 2024  
+4. 2024  
    `The deubiquitinase USP15 drives malignant progression of gastric cancer through glucose metabolism remodeling`  
    `Journal of Experimental & Clinical Cancer Research, 43(1):235`  
    Tag: `USP15`
 
-4. 2023  
+5. 2023  
    `Piceatannol enhances Beclin-1 activity to suppress tumor progression and its combination therapy strategy with everolimus`  
    `Science China Life Sciences, 66(2): 298-312`  
    Tag: `BECLIN-1`
@@ -454,7 +459,7 @@ Current entries:
 Format rule for future additions:
 
 ```text
-Year / Article title / Journal citation / Short scientific tag
+Year / Article title / Journal citation without author list / Short scientific tag
 ```
 
 ## 14. Contact and CV

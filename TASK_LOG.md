@@ -215,3 +215,17 @@ On 2026-08-20, the English CV and selected publications were updated:
   ```
 
 - Deployed the updated static site to Netlify production.
+
+On 2026-08-20, a follow-up publication and CV refresh were completed:
+
+- Replaced `public/assets/files/longtao-huangfu-cv-en.pdf` again with the supplied English CV source file `CV_20260819.pdf`.
+- Added the 2026 Advanced Science TOPK publication to the selected work list:
+
+  ```text
+  TOPK Inhibition Promotes Anti-Tumor Immunity Via eIF4F Complex Mediated
+  STAT1 Translation in Gastric Cancer. Advanced Science, 13(13):e17380.
+  doi: 10.1002/advs.202517380.
+  ```
+
+- Updated selected work formatting so newly added 2026 publication cards display the title, journal citation, and scientific tag without author lists.
+- Deployed the updated static site to Netlify production and verified the live HTML and English CV download.
