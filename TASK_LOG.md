@@ -199,3 +199,19 @@ On 2026-07-26, a detailed style and content maintenance guide was added:
 - `WEBSITE_STYLE_AND_CONTENT_GUIDE.md`
 
 This guide records the website visual system, color tokens, typography rules, responsive layout rules, final avatar creation style, reusable avatar prompt, current Chinese-English text content, public asset rules, privacy exclusions, and deployment commands. It is intended to keep future changes aligned with the approved website design.
+
+## Content Update
+
+On 2026-08-20, the English CV and selected publications were updated:
+
+- Replaced `public/assets/files/longtao-huangfu-cv-en.pdf` with the new English CV source file `CV_20260819.pdf`.
+- Added the 2026 Journal of Advanced Research publication to the top of the selected work list:
+
+  ```text
+  Zhu H*, Chen L*, Huangfu L*#, Wang G, Cai H, Chen J, Li X, Liang M, Li W,
+  Wang Y, Shu S#, Jia S#, Ji J#, Xing X#. Cisplatin-Induced ecDNA Enhances
+  Tumor Aggressiveness and Accelerates Chemoresistance Acquisition in Gastric
+  Cancer. J Adv Res. 2026 Jul 30:S2090-1232(26)00601-6.
+  ```
+
+- Deployed the updated static site to Netlify production.
